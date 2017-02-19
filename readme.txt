@@ -6,7 +6,7 @@ A queue based on time and priority is implemented using binary heap. This progra
 Running
 Pass filename & starttime as parameters to program
 
-	python PriorityQueue input_events.csv  "2017/02/10 4:59"
+	python PriorityQueue.py input_events.csv  "2017/02/10 4:59"
 
 Input:
 Input to the program will be a file containing all the events in CSV format.  
